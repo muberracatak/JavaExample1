@@ -9,3 +9,5 @@ Kenar bilgilerini kullanıcıdan aldığımız, çeşitli hesaplamalar yaparak k
 Kullanıcıdan alınan yarıçap değeri kullanılarak (𝜋 * (r*r) * 𝛼) / 360 formülü ile daire diliminin alanını bulan programdır.
 ## 5.
 Kullanıcıdan alınan boy ve kilo değerleri formülde yerine konularak vücut kitle endeksi hesaplayan program.
+## 6.
+Kullanıcılardan çeşitli meyve ve sebzelerin kg bilgilerini aldıktan sonra kg değerine göre toplam ödenecek tutarı hesaplayan program
