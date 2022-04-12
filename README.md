@@ -7,3 +7,4 @@ Kullanıcıdan alınan fiyat bilgisinin 0 ile 1000 arasında ise %18 lik KDV ora
 Kenar bilgilerini kullanıcıdan aldığımız, çeşitli hesaplamalar yaparak kenar değerlerini aldığımız üçgenin alanını hesaplayan programdır.
 ## 4.
 Kullanıcıdan alınan yarıçap değeri kullanılarak (𝜋 * (r*r) * 𝛼) / 360 formülü ile daire diliminin alanını bulan programdır.
+## 5.
