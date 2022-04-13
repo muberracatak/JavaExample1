@@ -13,3 +13,5 @@ Kullanıcıdan alınan boy ve kilo değerleri formülde yerine konularak vücut 
 Kullanıcılardan çeşitli meyve ve sebzelerin kg bilgilerini aldıktan sonra kg değerine göre toplam ödenecek tutarı hesaplayan program
 ## 7.
 Switch case yapısı kullanılarak kullanıcıdan alınan inputlara göre hesaplama yapan bir hesap makinesi programıdır.
+## 8.
+Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını soran, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programdır.
