@@ -11,3 +11,5 @@ Kullanıcıdan alınan yarıçap değeri kullanılarak (𝜋 * (r*r) * 𝛼) / 3
 Kullanıcıdan alınan boy ve kilo değerleri formülde yerine konularak vücut kitle endeksi hesaplayan program.
 ## 6.
 Kullanıcılardan çeşitli meyve ve sebzelerin kg bilgilerini aldıktan sonra kg değerine göre toplam ödenecek tutarı hesaplayan program
+## 7.
+Switch case yapısı kullanılarak kullanıcıdan alınan inputlara göre hesaplama yapan bir hesap makinesi programıdır.
